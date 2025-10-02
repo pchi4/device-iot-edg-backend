@@ -1,0 +1,26 @@
+[
+  {
+    "device_id": "phone-001",
+    "timestamp": "2025-10-01T23:30:30.621Z",
+    "type": "SUSPICIOUS_MOVEMENT",
+    "latitude": 5.25,
+    "longitude": -52.969,
+    "received_at": "2025-10-02T01:30:54.061Z"
+  },
+  {
+    "device_id": "phone-001",
+    "timestamp": "2025-10-01T23:30:30.621Z",
+    "type": "SUSPICIOUS_MOVEMENT",
+    "latitude": 5.25,
+    "longitude": -52.969,
+    "received_at": "2025-10-02T01:30:55.045Z"
+  },
+  {
+    "device_id": "phone-001",
+    "timestamp": "2025-10-01T23:30:30.621Z",
+    "type": "SUSPICIOUS_MOVEMENT",
+    "latitude": 5.25,
+    "longitude": -52.969,
+    "received_at": "2025-10-02T01:30:55.822Z"
+  }
+]
