@@ -9,7 +9,7 @@ Ele é responsável por **receber, armazenar e centralizar eventos** detectados 
 - **Node.js + Express** — servidor HTTP principal  
 - **CORS + Body Parser** — para recebimento de requisições JSON  
 - **File System (fs)** — armazenamento simples em arquivo local (`events_log.json`)
-- 
+  
 ---
 
 ## ⚙️ Instalação e Execução
